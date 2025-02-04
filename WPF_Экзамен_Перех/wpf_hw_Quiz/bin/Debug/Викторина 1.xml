@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Quiz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Questions>
+    <Question>
+      <Text>Вопрос 1</Text>
+      <Answers>
+        <Answer>
+          <Text>Ответ 1.1</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>Ответ 1.2</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>Ответ 1.3</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text>Вопрос 2</Text>
+      <Answers>
+        <Answer>
+          <Text>Ответ 2.1</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>Ответ 2.2</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>Ответ 2.3</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <Text>Вопрос 3</Text>
+      <Answers>
+        <Answer>
+          <Text>Ответ 3.1</Text>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>Ответ 3.2</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <Text>Ответ 3.2</Text>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+  </Questions>
+  <Name>Викторина 1</Name>
+</Quiz>

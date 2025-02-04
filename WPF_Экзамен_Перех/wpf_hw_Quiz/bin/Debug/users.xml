@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Users>
+    <User >
+        <Login>qwer</Login>
+        <Password>qwer</Password>
+    </User >
+    <User >
+        <Login>User1</Login>
+        <Password>1111</Password>
+    </User >
+    <User >
+        <Login>User2</Login>
+        <Password>2222</Password>
+    </User >
+    <User >
+        <Login>User3</Login>
+        <Password>3333</Password>
+    </User >
+</Users>

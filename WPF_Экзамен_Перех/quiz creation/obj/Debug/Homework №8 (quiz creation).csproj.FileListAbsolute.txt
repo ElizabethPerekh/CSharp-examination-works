@@ -1,0 +1,30 @@
+C:\Users\morev\source\repos\Homework №8 (quiz creation)\bin\Debug\Homework №8 (quiz creation).exe.config
+C:\Users\morev\source\repos\Homework №8 (quiz creation)\bin\Debug\Homework №8 (quiz creation).exe
+C:\Users\morev\source\repos\Homework №8 (quiz creation)\bin\Debug\Homework №8 (quiz creation).pdb
+C:\Users\morev\source\repos\Homework №8 (quiz creation)\obj\Debug\Homework №8 (quiz creation).csproj.AssemblyReference.cache
+C:\Users\morev\source\repos\Homework №8 (quiz creation)\obj\Debug\MainWindow.g.cs
+C:\Users\morev\source\repos\Homework №8 (quiz creation)\obj\Debug\App.g.cs
+C:\Users\morev\source\repos\Homework №8 (quiz creation)\obj\Debug\Homework №8 (quiz creation)_MarkupCompile.cache
+C:\Users\morev\source\repos\Homework №8 (quiz creation)\obj\Debug\Homework №8 (quiz creation)_MarkupCompile.lref
+C:\Users\morev\source\repos\Homework №8 (quiz creation)\obj\Debug\MainWindow.baml
+C:\Users\morev\source\repos\Homework №8 (quiz creation)\obj\Debug\Homework №8 (quiz creation).g.resources
+C:\Users\morev\source\repos\Homework №8 (quiz creation)\obj\Debug\Homework__8__quiz_creation_.Properties.Resources.resources
+C:\Users\morev\source\repos\Homework №8 (quiz creation)\obj\Debug\Homework №8 (quiz creation).csproj.GenerateResource.cache
+C:\Users\morev\source\repos\Homework №8 (quiz creation)\obj\Debug\Homework №8 (quiz creation).csproj.CoreCompileInputs.cache
+C:\Users\morev\source\repos\Homework №8 (quiz creation)\obj\Debug\Homework №8 (quiz creation).exe
+C:\Users\morev\source\repos\Homework №8 (quiz creation)\obj\Debug\Homework №8 (quiz creation).pdb
+C:\git\Homework №8 (quiz creation)\bin\Debug\Homework №8 (quiz creation).exe.config
+C:\git\Homework №8 (quiz creation)\bin\Debug\Homework №8 (quiz creation).exe
+C:\git\Homework №8 (quiz creation)\bin\Debug\Homework №8 (quiz creation).pdb
+C:\git\Homework №8 (quiz creation)\obj\Debug\Homework №8 (quiz creation).csproj.AssemblyReference.cache
+C:\git\Homework №8 (quiz creation)\obj\Debug\MainWindow.g.cs
+C:\git\Homework №8 (quiz creation)\obj\Debug\App.g.cs
+C:\git\Homework №8 (quiz creation)\obj\Debug\Homework №8 (quiz creation)_MarkupCompile.cache
+C:\git\Homework №8 (quiz creation)\obj\Debug\Homework №8 (quiz creation)_MarkupCompile.lref
+C:\git\Homework №8 (quiz creation)\obj\Debug\MainWindow.baml
+C:\git\Homework №8 (quiz creation)\obj\Debug\Homework №8 (quiz creation).g.resources
+C:\git\Homework №8 (quiz creation)\obj\Debug\Homework__8__quiz_creation_.Properties.Resources.resources
+C:\git\Homework №8 (quiz creation)\obj\Debug\Homework №8 (quiz creation).csproj.GenerateResource.cache
+C:\git\Homework №8 (quiz creation)\obj\Debug\Homework №8 (quiz creation).csproj.CoreCompileInputs.cache
+C:\git\Homework №8 (quiz creation)\obj\Debug\Homework №8 (quiz creation).exe
+C:\git\Homework №8 (quiz creation)\obj\Debug\Homework №8 (quiz creation).pdb
